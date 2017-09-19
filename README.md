@@ -15,3 +15,10 @@ Here I have experimented with the muliple similarity measures such as the follow
 <li>Fuzzy Token Set Ratio</li>
 </ul>
 </ul>
+
+Some other features that I have used are :
+<ol>
+<li>Number of Shared words</li>
+<li>Total Number of words</li>
+<li>Length of each question</li>
+</ol>
